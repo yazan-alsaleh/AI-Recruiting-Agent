@@ -1,1 +1,1 @@
-# AI-Recruiting-Agent
+# AI Recruiting Agent
